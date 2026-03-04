@@ -41,7 +41,7 @@
 import { useState } from "react";
 import { login } from "../services/api";
 import { useNavigate } from "react-router-dom";
-import "../styles/Login.css";
+import "../styles/login.css";
 import logo from "../assets/lets-read-logo.png";
 
 export default function Login() {
